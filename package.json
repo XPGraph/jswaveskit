@@ -1,0 +1,30 @@
+{
+  "name": "@xpgraph/jswaveskit",
+  "version": "1.0.0",
+  "description": "browser, RN & NodeJS wavesplatform quickstart library",
+  "main": "lib/waves.api.js",
+  "scripts": {
+    "example": "node ./example"
+  },
+  "directories": {
+    "lib": "lib",
+    "helpers": "helpers",
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XPGraph/jswaveskit"
+  },
+  "keywords": [
+    "waves",
+    "brainwallet",
+    "transactions",
+    "blockchain",
+    "crypto"
+  ],
+  "author": "XPGraph",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
